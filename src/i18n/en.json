@@ -1,0 +1,10 @@
+{
+  "dashboard": "Dashboard",
+  "transactions": "Transactions",
+  "categories": "Categories",
+  "settings": "Settings",
+  "login": "Login",
+  "totalSpent": "Spent this month",
+  "totalIncome": "Income",
+  "balance": "Balance"
+}

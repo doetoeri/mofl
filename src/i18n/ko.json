@@ -1,0 +1,10 @@
+{
+  "dashboard": "대시보드",
+  "transactions": "거래내역",
+  "categories": "카테고리",
+  "settings": "설정",
+  "login": "로그인",
+  "totalSpent": "이번 달 지출",
+  "totalIncome": "총 수입",
+  "balance": "잔액"
+}
